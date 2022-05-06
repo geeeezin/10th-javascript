@@ -24,3 +24,16 @@
   
 ## 4. 목록 삭제
   * 각 항목 우측에 있는 작은 'x자 표시'를 눌러 삭제할 수 있습니다.
+  
+  --
+  
+  ##색상 정보
+  <img width="149" alt="image" src="https://user-images.githubusercontent.com/102958583/167082823-7ba9f1b4-9ec7-40ff-a5f2-3d2b432c5963.png">
+
+  ##폰트 정보
+  
+  pretentard (https://cactus.tistory.com/306)
+  
+  ##피그마 주소
+  
+  https://www.figma.com/file/FhILkQDsWLQNw0xAdEsjPt/0408-%EC%8A%A4%ED%84%B0%EB%94%94-1-_-todo-list?node-id=0%3A1
